@@ -22,3 +22,4 @@ En la carpeta imagenes se agregan todas las imágenes relacionadas con el proyec
 1. [Uso de la Consola](docs/uso_consola.md)
 2. [Repositorio Local](docs/repositorio_local.md)
 3. [Repositorio Remoto](docs/repositorio_remoto.md)
+4. [gitignore](src/investigacion.gitignore)
