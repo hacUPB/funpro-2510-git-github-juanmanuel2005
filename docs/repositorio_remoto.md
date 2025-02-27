@@ -4,5 +4,10 @@ Para crear un repositorio remoto, primero se debe tener una cuenta en GitHub y u
 ```
 git remote add origin "link del repositorio remoto de GitHub"
 ```
-Una vez hecho esto, ya podemos editar el repositorio local realizando cambios en los archivos y haciendo commits. Después de esto, usamos el comando `git push` para subir los cambios al repositorio remoto.
+Una vez hecho esto, ya podemos editar el repositorio local realizando cambios en los archivos y haciendo commits. Después de esto, usamos el comando `git push` para subir los cambios al repositorio remoto.  
+
+Aca se puede ver como se clona el repositorio.
 ![clonar](../imagenes/repoitorio_remoto1.png)
+
+Aca se puede ver como se suben los cambios al repositorio remoto
+![push](../imagenes/git_push.png).
